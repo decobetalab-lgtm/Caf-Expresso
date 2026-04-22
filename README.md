@@ -1,7 +1,5 @@
 # Caf-Expresso
 
-# Café Expresso
-
 Pré-projeto de sistema de autoatendimento para cafeteria.
 
 ## Objetivo
