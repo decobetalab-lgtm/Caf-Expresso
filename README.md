@@ -11,7 +11,14 @@ Desenvolver um sistema orientado a objetos para gerenciamento de pedidos.
 - Cálculo automático do total
 - Controle de status do pedido
   
-## Tecnologias
+## Tecnologias utilizadas
 - Java
 - GitHub
 - UML
+
+## Roadmap
+- [ ] Modelagem das classes
+- [ ] Implementação de Produto
+- [ ] Implementação de Pedido
+- [ ] Regras de negócio
+- [ ] Testes
