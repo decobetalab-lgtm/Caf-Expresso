@@ -10,4 +10,3 @@ Desenvolver um sistema orientado a objetos para gerenciamento de pedidos.
 - Adição de itens ao pedido
 - Cálculo automático do total
 - Controle de status do pedido
-- 
