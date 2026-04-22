@@ -1,4 +1,4 @@
-# Café-Expresso
+# Caf-Expresso
 
 Pré-projeto de sistema de autoatendimento para cafeteria.
 
